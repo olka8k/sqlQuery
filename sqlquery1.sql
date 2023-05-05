@@ -1,0 +1,18 @@
+CREATE DATABASE pierwsza_baza;
+USE pierwsza_baza;
+
+CREATE TABLE users (
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(200),
+surname VARCHAR(200),
+age INT,
+city VARCHAR(200),
+profession VARCHAR(200)
+)ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_polish_ci;
+
+CREATE TABLE profession (
+id INT AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(200)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_polish_ci;
+
+DROP DATABASE pierwsza_baza;
