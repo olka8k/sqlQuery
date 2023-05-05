@@ -15,3 +15,8 @@ sqlquery2.sql
 
 Wstawienie danych do tabeli users;
 Aktualizacja rekordu;
+
+-----------------------------------------
+sqlquery3.sql
+
+Operacje dodawania kolumn do tabeli profession;
