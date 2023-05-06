@@ -23,14 +23,23 @@ Operacje dodawania kolumn do tabeli profession;
 
 -----------------------------------------
 sqlquery4.sql
+
 Wstawienie danych do tabeli users;
 Wyciąganie danych po warunkachl
 
 -----------------------------------------
 sqlquery5.sql
+
 Operatory SQl
 
 -----------------------------------------
 sqlquery6.sql
+
 Operatory logiczne.
+
+
+-----------------------------------------
+sqlquery7.sql
+
+Operatory matematyczne.
 
