@@ -24,6 +24,9 @@ Operacje dodawania kolumn do tabeli profession;
 -----------------------------------------
 sqlquery4.sql
 Wstawienie danych do tabeli users;
-Wyciąganie danych po warunkach;
+Wyciąganie danych po warunkachl
 
+-----------------------------------------
+sqlquery5.sql
+Operatory SQl
 
