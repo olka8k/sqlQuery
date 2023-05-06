@@ -20,3 +20,10 @@ Aktualizacja rekordu;
 sqlquery3.sql
 
 Operacje dodawania kolumn do tabeli profession;
+
+-----------------------------------------
+sqlquery4.sql
+Wstawienie danych do tabeli users;
+Wyciąganie danych po warunkach;
+
+
