@@ -30,3 +30,7 @@ Wyciąganie danych po warunkachl
 sqlquery5.sql
 Operatory SQl
 
+-----------------------------------------
+sqlquery6.sql
+Operatory logiczne.
+
