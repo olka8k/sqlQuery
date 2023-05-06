@@ -43,3 +43,8 @@ sqlquery7.sql
 
 Operatory matematyczne.
 
+-----------------------------------------
+sqlquery8.sql
+
+Sortowanie wyników.
+
