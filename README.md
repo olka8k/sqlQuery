@@ -82,3 +82,6 @@ Podzapytania i widoki.
 sqlquery15.sql
 Zadanie - utwórz widok.
 
+-----------------------------------------
+sqlquery16.sql
+Wyrażenia regularne.
