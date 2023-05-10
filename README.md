@@ -58,4 +58,9 @@ sqlquery10.sql
 
 GROUP BY, HAVING
 
+-----------------------------------------
+sqlquery11.sql
+
+Operatory TIME, DATE
+
 
