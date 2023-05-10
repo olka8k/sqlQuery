@@ -53,5 +53,9 @@ sqlquery9.sql
 
 Aktualizaowanie rekordów.
 
+-----------------------------------------
+sqlquery10.sql
+
+GROUP BY, HAVING
 
 
