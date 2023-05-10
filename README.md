@@ -48,3 +48,10 @@ sqlquery8.sql
 
 Sortowanie wyników.
 
+-----------------------------------------
+sqlquery9.sql
+
+Aktualizaowanie rekordów.
+
+
+
