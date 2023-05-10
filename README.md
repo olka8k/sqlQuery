@@ -78,3 +78,7 @@ sqlquery14.sql
 Podzapytania i widoki.
 
 
+-----------------------------------------
+sqlquery15.sql
+Zadanie - utwórz widok.
+
