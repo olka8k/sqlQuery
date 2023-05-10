@@ -73,3 +73,8 @@ sqlquery13.sql
 
 Zapytania z wykorzystsaniem length, lower, upper, max, min, count.
 
+-----------------------------------------
+sqlquery14.sql
+Podzapytania i widoki.
+
+
