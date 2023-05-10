@@ -68,5 +68,8 @@ sqlquery12.sql
 
 Funkcje matematyczne, lower, upper, length
 
+-----------------------------------------
+sqlquery13.sql
 
+Zapytania z wykorzystsaniem length, lower, upper, max, min, count.
 
