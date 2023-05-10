@@ -63,4 +63,10 @@ sqlquery11.sql
 
 Operatory TIME, DATE
 
+-----------------------------------------
+sqlquery12.sql
+
+Funkcje matematyczne, lower, upper, length
+
+
 
