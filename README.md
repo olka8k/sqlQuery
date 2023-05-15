@@ -85,3 +85,8 @@ Zadanie - utwórz widok.
 -----------------------------------------
 sqlquery16.sql
 Wyrażenia regularne.
+
+-----------------------------------------
+
+sqlquery17.sql
+LEFT JOIN, RIGHT JOIN, INNER JOIN
