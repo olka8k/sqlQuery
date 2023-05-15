@@ -105,3 +105,8 @@ TRIGGER
 -----------------------------------------
 sqlquery21.sql
 PROCEDURE
+
+-----------------------------------------
+sqlquery22.sql
+Task with JOINs and operators.
+
