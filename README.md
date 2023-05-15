@@ -93,3 +93,7 @@ LEFT JOIN, RIGHT JOIN, INNER JOIN
 -----------------------------------------
 sqlquery18.sql
 JOIN 
+
+-----------------------------------------
+sqlquery19.sql
+FOREIGN KEY
