@@ -110,3 +110,8 @@ PROCEDURE
 sqlquery22.sql
 Task with JOINs and operators.
 
+-----------------------------------------
+sqlquery23.sql
+Task with TRIGGERSs,PROCEDUREs and JOINs :)
+
+
