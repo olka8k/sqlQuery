@@ -87,6 +87,9 @@ sqlquery16.sql
 Wyrażenia regularne.
 
 -----------------------------------------
-
 sqlquery17.sql
 LEFT JOIN, RIGHT JOIN, INNER JOIN
+
+-----------------------------------------
+sqlquery18.sql
+JOIN 
